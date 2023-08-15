@@ -64,7 +64,9 @@
 
 
 ## 📊 My Github Stats
-![Parnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadbrainwork&show_icons=true&theme=transparent)
+<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Parnab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deadbrainwork&theme=black-ice&hide_border=false&stroke=FFFFFF&background=0D1117"/></p><p align="center">
+<img alt="Parnab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deadbrainwork&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /> </p>
+<p align="center"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadbrainwork&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
 
 
 
