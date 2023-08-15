@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **Linkedin.com/parnabsaha0**
 
-- ⚡ Fun fact **My favourite movies are TRON Legacy and Matrix which show both marvelous possibility and unfavaourable possibilty of AI which you should certainly check out.**
+- ⚡ Fun fact **My favourite movies are TRON Legacy and Matrix which totally decribes me as a nerd**
 
 ## 🚀 Languages and Tools:
 
