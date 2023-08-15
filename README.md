@@ -1,5 +1,5 @@
 <p align="center"><img width="120%" height="auto" src="github1.png"/></p>
-<h1 align="center">Greetings User!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Parnab</h1><h3 align="center">Welcome to my github profile </h3>
+<h1 align="center">Greetings User!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Parnab</h1><h3 align="center">Welcome to my Github profile </h3>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently a student/freelancer
@@ -10,6 +10,7 @@
   - **Software Development**
   - **Internet Of Things**
   - **Game Developement**
+  - **Mobile Development**
   - **Computer Vision**
   - **Arduino**
   - **MIDI**
