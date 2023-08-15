@@ -64,6 +64,10 @@
 
 
 ## 📊 My Github Stats
+![Parnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadbrainwork&show_icons=true&theme=transparent)
+
+
+
 <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
            </P>
 
