@@ -86,6 +86,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/parnabsaha0"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/iamparnabsaha"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/parnab.saha_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
